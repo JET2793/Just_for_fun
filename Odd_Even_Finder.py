@@ -9,7 +9,6 @@ if number % 2 == 0:
 else:
     print('Odd number')
 
-print('That was fun!')
 
 text = input('Try Again? (Yes=1/No=0)')
 number = int(text)
